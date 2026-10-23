@@ -10,42 +10,6 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
-
-```javascript
-const biel = {
-    nome: "Gabriel",
-    apelido: "Biel",
-    curso: "Análise e Desenvolvimento de Sistemas",
-    
-    estudando: [
-        "JavaScript",
-        "Node.js",
-        "React",
-        "APIs",
-        "Banco de Dados"
-    ],
-
-    interesses: [
-        "Desenvolvimento Web",
-        "Automação",
-        "Sistemas",
-        "Games",
-        "Tecnologia"
-    ],
-
-    objetivo: "Transformar ideias em projetos que realmente funcionam."
-};
-```
-
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e desenvolvendo projetos para colocar em prática tudo que venho aprendendo.
-
-Gosto principalmente de criar sistemas que resolvam problemas reais, automatizem processos e transformem ideias em aplicações funcionais.
-
-> 💡 *Cada projeto aqui representa alguma coisa nova que aprendi pelo caminho.*
-
----
-
 ## 🚀 Tecnologias que estou explorando
 
 <div align="center">
